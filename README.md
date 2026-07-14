@@ -53,9 +53,15 @@ pip install -r requirements.txt
 
 ## Penggunaan
 
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/cracker-archive/refs/heads/main/images/Screenshot%20from%202026-07-14%2012-08-37.png)
+
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/cracker-archive/refs/heads/main/images/Screenshot%20from%202026-07-14%2012-08-51.png)
+
 ```bash
 python3 cracker_archive_tot.py ARCHIVE WORDLIST
 ```
+
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/cracker-archive/refs/heads/main/images/Screenshot%20from%202026-07-14%2012-09-15.png)
 
 Contoh:
 
@@ -64,6 +70,8 @@ python3 cracker_archive_tot.py secret.zip wordlist.txt
 python3 cracker_archive_tot.py protected.rar rockyou.txt
 python3 cracker_archive_tot.py archive.7z passwords.txt
 ```
+
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/cracker-archive/refs/heads/main/images/Screenshot%20from%202026-07-14%2012-10-17.png)
 
 ## Contoh Argumen
 
